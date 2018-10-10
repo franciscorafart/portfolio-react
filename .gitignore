@@ -1,0 +1,5 @@
+/external-resources
+/node_modules
+/front-end/node_modules
+/front-end/.next
+/dist
