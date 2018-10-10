@@ -1,6 +1,8 @@
 #Portfolio - Static website with Next JS, React, Sanity.io and Netlify
-Static website created with React, NextJS for static site building, Sanity.io
-headless CMS for content provider, and Netlify for automatic deployment.
+Check it out at: https://www.franciscorafat.com
+
+Static website created with React, NextJS for static site building and server side rendering,
+Sanity.io headless CMS for content resources, and Netlify for automatic deployment.
 
 Step 1 - Create Sanity application (headless cms)
 - Follow Sanity.io install instructions
